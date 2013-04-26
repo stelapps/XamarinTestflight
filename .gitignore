@@ -1,0 +1,7 @@
+*.dll
+*.a
+*.dylib
+*.tar.gz
+/ios/
+bin
+obj
